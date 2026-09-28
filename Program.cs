@@ -1,5 +1,5 @@
 public class Program {
   public static void Main(string[] args) {
-    System.Console.WriteLine("hellos");
+    System.Console.WriteLine("hello the world");
   }
 }
